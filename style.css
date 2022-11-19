@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Dancing+Script&family=Splash&display=swap');
+body{
+    background-color: cadetblue;
+}
+
+
+/* font-family: 'Cormorant SC', serif; */
+/* font-family: 'Dancing Script', cursive; */
+/* font-family: 'Splash', cursive; */
+p{ 
+    font-family: 'Cormorant SC', serif; 
+}
+h2{
+    font-family: 'Splash', cursive;
+    
+}
+ 
+.fa-user-alt{
+    box-shadow: 1px 5px 10px 1px rgba(0, 0, 0, 0.397);
+
+}
+.card{
+width: 250px;
+}
+.bimg{
+    box-shadow: -1px 8px 11px 1px rgba(255, 255, 255, 0.055);
+ 
+}
+.fa-user-alt{
+    font-size: 3rem;
+}
+.fa-twitter,.fa-github,.fa-google-plus-g,.fa-dropbox{
+    font-size: 1.2rem;
+}
